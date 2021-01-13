@@ -1,2 +1,14 @@
 // Import page-specific CSS files here.
 @import "home";
+
+body {
+  background-color: $background;
+}
+
+.stripe {
+  background-color: $main;
+  width: 100%;
+  text-align: center;
+} p {
+  color: white;
+}
